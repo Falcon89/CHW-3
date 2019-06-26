@@ -5,6 +5,9 @@ import java.util.Arrays;
 import java.util.List;
 
 public class Task7 {
+    /**
+     * Create method removeNumbersDivisible, on condition of task
+     */
     public void removeNumbersDivisible() {
         Integer[] numbers = {3, 9, 11, 18, 20, 22};
         List<Integer> list = new ArrayList<Integer>(Arrays.asList(numbers));

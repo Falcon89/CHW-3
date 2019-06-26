@@ -4,6 +4,9 @@ import java.util.Arrays;
 import java.util.Collections;
 
 public class Task3 {
+    /**
+     * Create method countsArrayDESC, on condition of task
+     */
     public void countsArrayDESC() {
         Integer array[] = {2, 3, 1, 7, 11};
         Arrays.sort(array, Collections.reverseOrder());

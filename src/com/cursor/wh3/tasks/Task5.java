@@ -1,6 +1,9 @@
 package com.cursor.wh3.tasks;
 
 public class Task5 {
+    /**
+     * Create method countingSumAllPositiveNumbers, on condition of task
+     */
     public void countingSumAllPositiveNumbers() {
         Integer array[] = {1, 5, 6, -3, 16, -1, -6, 14};
         int sum = 0;

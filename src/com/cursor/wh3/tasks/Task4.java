@@ -4,6 +4,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Task4 {
+    /**
+     * Create method replaceValueArrayList, on condition of task
+     */
     public void replaceValueArrayList() {
         List<String> list = new ArrayList<>();
         list.add("One");
