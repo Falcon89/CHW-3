@@ -4,14 +4,13 @@ public class Task5 {
     /**
      * Create method countingSumAllPositiveNumbers, positive and negative numbers
      */
-    public void countingSumAllPositiveNumbers() {
+    public static void countingSumAllPositiveNumbers() {
         Integer array[] = {1, 5, 6, -3, 16, -1, -6, 14};
         int sum = 0;
         for (int i = 0; i < array.length; i++) {
             if (array[i] > 0) {
                 sum = sum + array[i];
-            }
-            else if (array[i] == null) {
+            } else if (array[i] == null) {
                 sum = sum + array[i];
             }
         }

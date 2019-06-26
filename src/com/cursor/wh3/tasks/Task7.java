@@ -8,7 +8,7 @@ public class Task7 {
     /**
      * Create method removeNumbersDivisible, **Remove all numbers where divisible by 3
      */
-    public void removeNumbersDivisible() {
+    public static void removeNumbersDivisible() {
         Integer[] numbers = {3, 9, 11, 18, 20, 22};
         List<Integer> list = new ArrayList<Integer>(Arrays.asList(numbers));
         boolean isDivisible = false;

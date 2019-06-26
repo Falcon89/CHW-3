@@ -7,7 +7,7 @@ public class Task4 {
     /**
      * Create method replaceValueArrayList, Replace valu "Tree" by "Three"
      */
-    public void replaceValueArrayList() {
+    public static void replaceValueArrayList() {
         List<String> list = new ArrayList<>();
         list.add("One");
         list.add("Two");
