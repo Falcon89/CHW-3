@@ -5,7 +5,7 @@ import java.util.List;
 
 public class Task4 {
     /**
-     * Create method replaceValueArrayList, on condition of task
+     * Create method replaceValueArrayList, Replace valu "Tree" by "Three"
      */
     public void replaceValueArrayList() {
         List<String> list = new ArrayList<>();

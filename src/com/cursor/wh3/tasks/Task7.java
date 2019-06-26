@@ -6,7 +6,7 @@ import java.util.List;
 
 public class Task7 {
     /**
-     * Create method removeNumbersDivisible, on condition of task
+     * Create method removeNumbersDivisible, **Remove all numbers where divisible by 3
      */
     public void removeNumbersDivisible() {
         Integer[] numbers = {3, 9, 11, 18, 20, 22};

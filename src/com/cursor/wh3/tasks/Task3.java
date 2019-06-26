@@ -5,7 +5,7 @@ import java.util.Collections;
 
 public class Task3 {
     /**
-     * Create method countsArrayDESC, on condition of task
+     * Create method countsArrayDESC, Sort them DESC(reverseOrder)
      */
     public void countsArrayDESC() {
         Integer array[] = {2, 3, 1, 7, 11};

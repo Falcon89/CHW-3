@@ -2,7 +2,7 @@ package com.cursor.wh3.tasks;
 
 public class Task5 {
     /**
-     * Create method countingSumAllPositiveNumbers, on condition of task
+     * Create method countingSumAllPositiveNumbers, positive and negative numbers
      */
     public void countingSumAllPositiveNumbers() {
         Integer array[] = {1, 5, 6, -3, 16, -1, -6, 14};
