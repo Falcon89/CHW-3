@@ -11,14 +11,12 @@ public class Task7 {
     public static void removeNumbersDivisible() {
         Integer[] numbers = {3, 9, 11, 18, 20, 22};
         List<Integer> list = new ArrayList<Integer>(Arrays.asList(numbers));
-        boolean isDivisible = false;
         System.out.println("Task 7 -->");
-        for (int num : list) {
-            if (num % 3 == 0) {
-                isDivisible = false;
-                System.out.println(num + " Divisible by 3");
-            } else if (isDivisible == true) {
-                list.remove(list);
+        for (int i = 0; i < list.size(); i++) {
+            if (((list.get(i)) % 3) == 0) {
+                System.out.println(list.get(i) + " Divisible by 3");
+            } else if (((list.get(i)) % 3) != 0) {
+                list.remove(i);
             }
         }
     }
