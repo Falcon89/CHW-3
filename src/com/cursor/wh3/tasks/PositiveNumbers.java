@@ -1,6 +1,6 @@
 package com.cursor.wh3.tasks;
 
-public class Task5 {
+public class PositiveNumbers {
     /**
      * Create method countingSumAllPositiveNumbers, positive and negative numbers
      */

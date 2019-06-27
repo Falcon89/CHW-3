@@ -2,7 +2,7 @@ package com.cursor.wh3.tasks;
 
 import java.util.Arrays;
 
-public class Task6 {
+public class AverageNumbers {
     /**
      * Create method sortingDeterminingAverageNumber, average of a list of numbers
      */

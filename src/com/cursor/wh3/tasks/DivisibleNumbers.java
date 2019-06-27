@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class Task7 {
+public class DivisibleNumbers {
     /**
      * Create method removeNumbersDivisible, **Remove all numbers where divisible by 3
      */

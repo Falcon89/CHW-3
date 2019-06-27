@@ -3,7 +3,7 @@ package com.cursor.wh3.tasks;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Task4 {
+public class ReplaceArray {
     /**
      * Create method replaceValueArrayList, Replace valu "Tree" by "Three"
      */

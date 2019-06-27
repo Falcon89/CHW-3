@@ -3,7 +3,7 @@ package com.cursor.wh3.tasks;
 import java.util.Arrays;
 import java.util.Collections;
 
-public class Task3 {
+public class Array {
     /**
      * Create method countsArrayDESC, Sort them DESC(reverseOrder)
      */
