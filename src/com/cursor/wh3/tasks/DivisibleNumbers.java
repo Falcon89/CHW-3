@@ -10,7 +10,7 @@ public class DivisibleNumbers {
      */
     public static void removeNumbersDivisible() {
         Integer[] numbers = {3, 9, 11, 18, 20, 22};
-        List<Integer> list = new ArrayList<Integer>(Arrays.asList(numbers));
+        List<Integer> list = new ArrayList<>(Arrays.asList(numbers));
         System.out.println("Task 7 -->");
         for (int i = 0; i < list.size(); i++) {
             if (((list.get(i)) % 3) == 0) {
