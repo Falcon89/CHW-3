@@ -1,13 +1,13 @@
 package com.cursor.wh3.tasks;
 
 public class StartTasks {
-    public StartTasks() {
-        /**
-         * Create method StartTasks, creating class objects
-         */
+    /**
+     * Create method startTasks, creating class objects
+     */
+    public static void startTasks() {
         ArrayCounts.countsArrayDESC();
         ReplaceArray.replaceValueArrayList();
-        PositiveNumbers.sortingAndSumOfAllPositiveNumbers();
+        PositiveNumbers.findAllPositiveNumberAndSum();
         AverageNumbers.sortingDeterminingAverageNumber();
         DivisibleNumbers.removeNumbersDivisible();
     }

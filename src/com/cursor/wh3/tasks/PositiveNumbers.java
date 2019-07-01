@@ -2,9 +2,9 @@ package com.cursor.wh3.tasks;
 
 public class PositiveNumbers {
     /**
-     * Create method sortingAndSumOfAllPositiveNumbers, positive and negative numbers
+     * Create method findAllPositiveNumberAndSum, positive and negative numbers
      */
-    public static void sortingAndSumOfAllPositiveNumbers() {
+    public static void findAllPositiveNumberAndSum() {
         Integer array[] = {1, 5, 6, -3, 16, -1, -6, 14};
         int sum = 0;
         for (int i = 0; i < array.length; i++) {
